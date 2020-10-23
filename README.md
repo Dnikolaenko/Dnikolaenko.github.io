@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/Dnikolaenko/Dnikolaenko.gi
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 Try to add image
-![Image of Baracktocat](https://octodex.github.com/images/baracktocat.png)
+![Image of Baracktocat](https://octodex.github.com/images/baracktocat.jpg)
 
 ### Markdown
 
